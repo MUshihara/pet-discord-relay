@@ -14,6 +14,10 @@ TARGET_PETS = [
     "Raccoon",
     "Golden Dragonfly",
     "GoldenDragonfly",
+    "Firefly",
+    "Bald Eagle",
+    
+    
 ]
 
 intents = discord.Intents.default()
